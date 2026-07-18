@@ -1,3 +1,19 @@
+ Hi 👋, I'm Rajeev Ranjan
+📊 Data Analyst | SQL | Python | Power BI | Tableau | Advanced Excel
+
+ 📈 Data Analyst with 4+ years of experience transforming raw data into actionable business insights.
+ 
+ 💻 Skilled in SQL, Python, Excel, Power BI, Tableau, and ETL for data analysis and visualization.
+ 
+ 📊 Passionate about building interactive dashboards, automating reports, and uncovering trends that drive business growth.
+ 
+ 🔍 Experienced in Data Cleaning, EDA, KPI Reporting, Data Modeling, and Business Intelligence.
+ 
+ 🤝 Enjoy collaborating with cross-functional teams to solve business problems through data-driven decisions.
+ 
+ 🚀 Always learning new technologies and improving analytical skills.
+ 
+ 🎯 Turning Data into Decisions that Drive Business Growth
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ra_jeev_ranjan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rajeev-ranjan-6b7b7222a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rajeevbittu50@gmail.com) 
