@@ -1,5 +1,7 @@
 Hi 👋, I'm Rajeev Ranjan
-🚀 Aspiring Data Analyst | 🤖 Learning Machine Learning | 🗄️ SQL • 🐍 Python • 📊 Power BI • 🐼 Pandas • 🔢 NumPy | 📈 Building real-world data projects & continuously improving my skills.
+
+🚀 Aspiring Data Analyst
+| 🤖 Learning Machine Learning | 🗄️ SQL • 🐍 Python • 📊 Power BI • 🐼 Pandas • 🔢 NumPy | 📈 Building real-world data projects & continuously improving my skills.
  📈 Gis Data Analyst with 4+ years of experience transforming raw data into actionable business insights.
  
  💻 Skilled in SQL, Python, Excel, Power BI, Tableau, and ETL for data analysis and visualization.
